@@ -1,0 +1,21 @@
+{
+  "name": "saas-landing-page",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "@types/node": "^18",
+    "typescript": "^4.9.4"
+  }
+}
